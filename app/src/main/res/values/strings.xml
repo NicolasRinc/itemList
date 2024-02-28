@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">itemsList</string>
+    <string name="find_item">Find item!</string>
+    <string name="type">No item selected</string>
+    <string-array name="itemType">
+        <item>Solid Merchandise</item>
+        <item>Farming Products</item>
+        <item>Liquids</item>
+        <item>Electronic</item>
+    </string-array>
+    <string-array name="SolidM">
+        <item>Lamp</item>
+        <item>Bed</item>
+        <item>Table</item>
+        <item>Chair</item>
+    </string-array>
+    <string-array name="FarmingP">
+        <item>Dirt Pack(bulk)</item>
+        <item>Dirt Pack(in abbundance)</item>
+        <item>Flowers</item>
+        <item>Shovel</item>
+    </string-array>
+    <string-array name="Liquids">
+        <item>Water</item>
+        <item>Gas</item>
+        <item>Petroleum</item>
+    </string-array>
+    <string-array name="Electronic">
+        <item>Console</item>
+        <item>TV</item>
+        <item>Computer</item>
+    </string-array>
+
+</resources>
